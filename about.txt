@@ -1,0 +1,1 @@
+now first we learn mjs. it is moduler js, before moduler simple js was common js.
